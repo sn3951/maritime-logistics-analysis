@@ -121,7 +121,3 @@ Data will load automatically from processed/ folder
 
 ---
 
-## Author
-**Sujal** 
-Programmer Analyst Trainee — Cognizant Technology Solutions  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
