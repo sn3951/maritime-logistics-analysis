@@ -59,6 +59,8 @@ reduce cargo movement times by 15%.
 ---
 
 ## Project Structure
+
+```
 maritime-logistics-analysis/
 ├── data/
 │   ├── raw/                    # Original 4-table star schema CSVs
@@ -70,8 +72,7 @@ maritime-logistics-analysis/
 ├── dashboard/
 │   └── maritime_dashboard.pbix # Power BI dashboard
 └── assets/                     # Dashboard screenshots
-
----
+```
 
 ## Data Pipeline
 Raw CSVs (15,000 rows)
