@@ -75,6 +75,7 @@ maritime-logistics-analysis/
 ```
 
 ## Data Pipeline
+```
 Raw CSVs (15,000 rows)
 ↓
 Data Cleaning
@@ -86,7 +87,7 @@ Analysis-ready dataset (1,601 verified records)
 EDA → Phase 3 Targeted Analysis
 ↓
 Power BI Dashboard (3 pages)
-
+```
 ---
 
 ## Statistical Methods Used
