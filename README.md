@@ -38,13 +38,13 @@ reduce cargo movement times by 15%.
 ## Dashboard Preview
 
 ### Page 1 — Suez Canal Impact
-![Q1 Dashboard](assets/Q1_suez_impact.png)
+![Q1 Dashboard](assets/Q1_suez_impact.jpg)
 
 ### Page 2 — Terminal Infrastructure Bottleneck
-![Q2 Dashboard](assets/Q2_terminal_bottleneck.png)
+![Q2 Dashboard](assets/Q2_terminal_bottleneck.jpg)
 
 ### Page 3 — Efficiency Anomalies
-![Q3 Dashboard](assets/Q3_efficiency_anomalies.png)
+![Q3 Dashboard](assets/Q3_efficiency_anomalies.jpg)
 
 ---
 
